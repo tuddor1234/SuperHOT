@@ -1,0 +1,2 @@
+D:\Projects\SuperHOT\SuperHOT\SuperHot\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Projects\SuperHOT\SuperHOT\SuperHot\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
